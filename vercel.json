@@ -1,10 +1,16 @@
 {
   "rewrites": [
     { "source": "/about-forhex", "destination": "/forhex-about.html" },
+    { "source": "/about-forhex/", "destination": "/forhex-about.html" },
     { "source": "/membership", "destination": "/forhex-membership.html" },
+    { "source": "/membership/", "destination": "/forhex-membership.html" },
     { "source": "/forhex-fair", "destination": "/forhex-fair.html" },
+    { "source": "/forhex-fair/", "destination": "/forhex-fair.html" },
     { "source": "/craft-stories", "destination": "/forhex-craft-stories.html" },
+    { "source": "/craft-stories/", "destination": "/forhex-craft-stories.html" },
     { "source": "/gallery", "destination": "/forhex-gallery.html" },
-    { "source": "/downloads", "destination": "/forhex-downloads.html" }
+    { "source": "/gallery/", "destination": "/forhex-gallery.html" },
+    { "source": "/downloads", "destination": "/forhex-downloads.html" },
+    { "source": "/downloads/", "destination": "/forhex-downloads.html" }
   ]
 }
